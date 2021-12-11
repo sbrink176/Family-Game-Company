@@ -1,2 +1,2 @@
 # Family-Game-Company
-This is where we will upload the code for our video game that is in the works.
+This is where we will upload the code we wrote to learn how to code in C++ and Unity
